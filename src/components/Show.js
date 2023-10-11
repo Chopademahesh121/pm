@@ -1,7 +1,7 @@
 const Show =()=>{
     return(
         <>
-        <h1>I am show</h1>
+        <h1>I am show pranit </h1>
         </>
     )
 }

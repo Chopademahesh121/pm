@@ -1,7 +1,7 @@
 const Add =()=>{
     return(
         <>
-        <h1>I am add</h1>
+        <h1>I am add pranit </h1>
         </>
     )
 }
